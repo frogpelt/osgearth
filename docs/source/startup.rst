@@ -75,7 +75,7 @@ in the future:
 Build it
 --------
 
-Make sure you built OSG_ and all the dependencies first.
+Make sure you build OSG_ and all the dependencies first.
 
 osgEarth uses CMake_, version 2.8 or later. Since OSG_ uses CMake_ as well, 
 once you get OSG built the process should be familiar.
