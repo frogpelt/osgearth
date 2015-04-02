@@ -8,7 +8,7 @@ osgEarth_ is a geospatial SDK and terrain engine for OpenSceneGraph_ application
 
 The goals of osgEarth_ are to:
 
-- Enable the development of 3D geospatial appliations on top of OpenSceneGraph_.
+- Enable the development of 3D geospatial applications on top of OpenSceneGraph_.
 - Make it as easy as possible to visualize terrian models and imagery directly from source data.
 - Interoperate with open mapping standards, technologies, and data.
 
